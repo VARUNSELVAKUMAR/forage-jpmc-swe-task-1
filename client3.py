@@ -62,3 +62,6 @@ if __name__ == "__main__":
             print("Quoted %s at (bid:%s, ask:%s, price:%s)" % (stock, bid_price, ask_price, price))
 
         print("Ratio %s" % getRatio(price_values["ABC"], price_values["DEF"]))
+
+
+
